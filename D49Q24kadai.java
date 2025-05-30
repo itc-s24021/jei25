@@ -8,6 +8,5 @@ public class D49Q24kadai {
         }
         System.out.println(sum);
         System.out.println(values.length);
-
     }
 }
